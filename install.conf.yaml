@@ -6,7 +6,8 @@
 
 - link:
 #     ~/.tmux.conf: tmux.conf
-      ~/.zshrc: zshrc
+      ~/.zshrc: 
+      ~/.gitconfig: gitconfig
 
 #- create:
 #    - ~/Work
